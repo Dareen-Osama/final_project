@@ -1,0 +1,20 @@
+Welcome to MyShell
+
+Available internal commands:
+  cd <dir>       : Change the current directory.
+  clr            : Clear the screen.
+  dir <dir>      : List the contents of the directory.
+  environ        : Display all environment variables.
+  echo <text>    : Display a message.
+  help           : Display this help manual.
+  pause          : Pause the shell until Enter is pressed.
+  quit           : Exit the shell.
+
+Supported features:
+- Batch mode (myshell batchfile)
+- Input/output redirection using <, >, >>
+- Background execution using &
+- Displays the full path in the shell prompt
+
+Created by: DAREEN, LEENA, NOURA
+Operating Systems Project 
